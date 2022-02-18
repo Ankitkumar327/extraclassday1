@@ -1,0 +1,74 @@
+1. Types of Heading?
+-> Heading starts from H1 to H6tag. where H1 tag is used for main title/main heading. H1 tag can be used only once in website and cannot be used again.
+H2-H6 are used for subheadings.
+
+2. why using H1 tags only once?
+-> H1 tags to be used only for the code efficiency.
+
+3. Paragraph(p) tag?
+-> P tag which allows to push or pull to a new line and it is used to write a message/paragraph. It is  a Block level element.
+
+4. Tags and Elements?
+-> <p> </p> ---> Tag(Which are enclosed inside a bracket which are valid) 
+   <p>Hello </p> ---> Elements(Combinations of tag and contents are called element)
+
+5. Self Closing Tags?
+-> Tags which does not need closing tag is known as self closing tags. Ex: <br> <meta> <img> <hr> <link>
+
+6. What are attributes?
+-> Attributes are used to gives addititonal information to the element. It will be given on only on starting tag(or) opening tags. Ex: href, src, class, id, alt, style.
+
+7. Inserting images into HTMl.
+<img src="" alt="">
+-> Absolute Path and Relative Path
+
+Absolute path-> When we use image from online directory and copy the link url of image then it is known as Absolute Path.
+Relative Path-> When the images present in our local machine and we use the image for web page building, then it is known as Relative Path.
+
+
+Alt-> We can define it as providing some information/message to our user or client regarding image loading.
+
+8. List? 
+-> Ordered and Unordered List
+By Default,
+Ordered List-> Numbers
+Unordered List-> Disc
+
+Different Types in Ordered List
+1. Number
+2. A
+3. a
+4. I
+5. i
+
+Different Types in Unordered List
+1. Disc
+2. Circle
+3. Square
+4. None
+
+9. Different tags in HTML?
+->
+<em> </em> tag-> which is used to highlight/attracting any text to viewer to not get bored.
+
+<strong> </strong> tag -> which will be having a strong warning.
+
+<i> </i> tag -> For italic text
+
+<b> </b> tag -> For making text bold
+
+<br> tag -> For breaking the sentence or words
+
+<hr> tag -> For  making a horizontal line 
+
+10. Block and Inline Elements?
+-> 
+Block level Elements: H1-H6, P, pre, forms etc..
+Inline level Elements: span, img, em, video, b etc
+
+Block level elements:- It will take entire width present besides the content. Elements will starts from new Line.
+Inline level elements:- It will take only the requrired length for the contents.Elements will starts on the same line.
+
+11. Forms?
+->Form tags is used for collecting data/input from the user. Form tag is used in case of registration, login etc. It consists of two elements:
+1. Label  2. Input type
